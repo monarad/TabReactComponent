@@ -1,0 +1,28 @@
+.navbar{
+
+  background-color: rgb(100, 168, 245);
+}
+.ul{
+  background-color: rgb(100, 168, 245);
+  display: flex;
+  list-style-type:none;
+  padding: 0;
+}
+.ul li{
+  margin: 0 10px;
+  cursor: pointer;
+  padding: 14px;
+  font-size: large;
+  
+}
+.tabs{
+  height:100vh;
+  background-color: rgb(0, 38, 255);
+  color: rgb(245, 249, 249);
+  padding: 14px;
+}
+.active{
+  color: white;
+  border-bottom: 2px solid white;
+  
+}
